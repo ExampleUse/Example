@@ -2,5 +2,5 @@
 
 hello world!
 
-Add information in Github through website.
-We need "git pull" command to update file in out local directory.
+Modify local README.md file before pull from remote reposity.
+There will be a merge conflict when you pull or push to remote one.
